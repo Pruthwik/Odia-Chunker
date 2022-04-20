@@ -1,5 +1,5 @@
 # Odia-Chunker
-CRF Based Odia Chunker
+CRF Based Odia Chunker, please install the CRF++ toolkit.
 Refer to chunker_run.sh for running the chunker
 ## If you are using this tool, please use the following citation
 @misc{https://doi.org/10.48550/arxiv.2204.08960,
