@@ -1,0 +1,25 @@
+କଥାରେ	NN	B-NP
+ଅଛି	VM	B-VGF
+,	SYM	I-VGF
+"	SYM	I-VGF
+ଚାଷ	NN	B-NP
+ନାହିଁ	NEG	B-VGF
+ୟାହାର	PRP	B-NP
+,	SYM	I-NP
+ବାସ	NN	B-NP
+ନାହିଁ	NEG	B-VGF
+ତାହାର	PRP	B-NP
+"	SYM	I-NP
+।	SYM	B-BLK
+
+ଚାଷ	NN	B-NP
+ଓ	CC	B-CCP
+ବାସ	NN	B-NP
+ମଣିଷର	NN	B-NP
+ଦୈନନ୍ଦିନ	JJ	B-NP
+ଜୀବନ	NN	I-NP
+ସହିତ	PSP	I-NP
+ନିତ୍ଯ	JJ	B-JJP
+ସମ୍ପର୍କିତ	JJ	I-JJP
+।	SYM	B-BLK
+
